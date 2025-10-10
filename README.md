@@ -7,16 +7,6 @@
 ```json
 {
   "napcatWs": "ws://127.0.0.1:3001",
-  "napcatToken": "token",
-  "groups": [
-    {
-      "id": 123456,
-      "prefix": "test"
-    },
-    {
-      "id": 123458,
-      "prefix": "djh"
-    }
-  ]
+  "napcatToken": "token"
 }
 ```
